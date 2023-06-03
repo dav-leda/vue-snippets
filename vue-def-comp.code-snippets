@@ -1,0 +1,9 @@
+{
+	"Vue defineComponent": {
+		"prefix": "vuedef",
+		"body": [
+			"import { defineComponent } from 'vue'"
+		],
+		"description": "Vue defineComponent"
+	}
+}

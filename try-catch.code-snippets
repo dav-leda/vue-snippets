@@ -1,0 +1,13 @@
+{
+	"fetch w/try-catch block": {
+		"prefix": "trycatch",
+		"body": [
+			"try {",
+			"  this.data = await (await fetch(url)).json()",
+			"} catch (error) {",
+			"  console.log(error)",
+			"}"
+		],
+		"description": "fetch w/try-catch block"
+	}
+}

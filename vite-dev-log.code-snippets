@@ -1,0 +1,11 @@
+{
+	"Vite Dev Environment": {
+		"prefix": "devlog",
+		"body": [
+			"const { log } = console",
+			"const { DEV: dev } = import.meta.env",
+			""
+		],
+		"description": "Vite Dev Environment"
+	}
+}
